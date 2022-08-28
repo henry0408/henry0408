@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @henry0408
-- 👀 I’m currently study in USYD interested in Signal Processing/ Machine Learning/ Deep Learning.
+- 👀 I’m currently studying in USYD, interested in Signal Processing/ Machine Learning/ Deep Learning.
 - 📫 hche4847@uni.sydney.edu.au
 
 <!---
