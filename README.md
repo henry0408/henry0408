@@ -17,6 +17,6 @@ You can click the Preview link to take a look at your changes.
 <!-- 连续提交代码天数记录 -->
 <div align="center">
   <img style="overflow:hidden;" src="https://github-readme-streak-stats.herokuapp.com/?user=henry0408&theme=dark&hide_border=true" width=45%>
-  <img style="overflow:hidden;" src="https://github-readme-stats.vercel.app/api?username=henry0408&hide_border=true&show_icons=true&theme=dracula" width=45%>
+  <img style="overflow:hidden;" src="https://github-readme-stats.vercel.app/api?username=henry0408&hide_border=true&show_icons=true&theme=dracula&count_private=true" width=45%>
 </div>
 <br>
