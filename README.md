@@ -4,7 +4,7 @@ henry0408/henry0408 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github.com/henry0408/henry0408/blob/1fa76aeb9527b9de0b8a0389f20de133a05a7a88/header.png">
+![elec3305screenshot](https://github.com/henry0408/henry0408/blob/main/header.png)
 
 👀 I’m currently studying in USYD\
 	:dizzy: Telecommunication/ Signal Processing/ Machine Learning/ Deep Learning.\
