@@ -9,7 +9,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 #  🙋 Hello
-:open_book: I’m Hangyu Chen, graduated from The University of Sydney and currently studying at The Chinese University of Hong Kong\
+:open_book: I’m Hangyu Chen 陈航宇.\
+:school: Graduated from The University of Sydney(USYD) and currently studying at The Chinese University of Hong Kong(CUHK).\
+:school_satchel: Majored in Information Engineering.\
 :dizzy: Telecommunication/ Signal Processing/ Machine Learning/ Deep Learning.\
 📫 hche4847@uni.sydney.edu.au
 
