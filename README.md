@@ -10,7 +10,8 @@ You can click the Preview link to take a look at your changes.
 
 #  🙋 Hello
 :open_book: I’m Hangyu Chen 陈航宇.\
-:school: The University of Sydney(USYD) :arrow_right: The Chinese University of Hong Kong(CUHK).\
+:mortar_board: B.Eng at The University of Sydney(USYD).\
+:school: Msc at The Chinese University of Hong Kong(CUHK).\
 :school_satchel: Majored in Information Engineering.\
 :dizzy: Telecommunication/ Signal Processing/ Machine Learning/ Deep Learning.\
 📫 hche4847@uni.sydney.edu.au
